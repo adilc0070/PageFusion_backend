@@ -1,4 +1,3 @@
-Here's the full README file in `.md` format:
 
 ````markdown
 # PageFusion Backend
