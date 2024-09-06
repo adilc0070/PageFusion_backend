@@ -88,7 +88,3 @@ For more information, please contact:
 - [GitHub](https://github.com/adilc0070)
 - [LinkedIn](https://www.linkedin.com/in/adilc0070/)
 
-```
-
-This file is ready to be added to your repository as a `README.md` file.
-```
