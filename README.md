@@ -1,5 +1,4 @@
 
-````markdown
 # PageFusion Backend
 
 PageFusion is a backend service for handling page splitting, merging, and PDF processing functionalities. This backend is built using Node.js and MongoDB. The service provides a robust API for file management and PDF operations.
@@ -30,7 +29,6 @@ To set up the backend locally, follow these steps:
 git clone https://github.com/adilc0070/PageFusion_backend.git
 cd PageFusion_backend
 ```
-````
 
 ### 2. Install dependencies:
 
