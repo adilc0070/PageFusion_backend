@@ -26,4 +26,4 @@ app.use('/pdf', pdf);  // Use PDF routes under '/pdf' path
 app.use('/auth', auth); // Use Auth routes under '/auth' path
 
 // Start the server
-app.listen(3000, () => console.log('Server started on port 3000 \t http://localhost:3000'));
+app.listen(3003, () => console.log('Server started on port 3003 \t http://localhost:3003'));
